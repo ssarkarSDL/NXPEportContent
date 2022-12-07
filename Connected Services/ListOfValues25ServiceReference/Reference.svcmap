@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="5a1ae0b9-d3ad-4f01-a1b7-b1e6d19e9dba" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="https://nxpdev001.sdlproducts.com/ISHWS/Wcf/API25/ListOfValues.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ListOfValues.xsd" MetadataType="Schema" ID="41c36222-f6a0-4308-ad3a-b53e43488fa4" SourceId="1" SourceUrl="https://nxpdev001.sdlproducts.com/ISHWS/Wcf/API25/ListOfValues.svc?xsd=xsd3" />
+    <MetadataFile FileName="ListOfValues1.xsd" MetadataType="Schema" ID="279e538c-ecb5-4da7-8dfe-35d895ae3cf6" SourceId="1" SourceUrl="https://nxpdev001.sdlproducts.com/ISHWS/Wcf/API25/ListOfValues.svc?xsd=xsd4" />
+    <MetadataFile FileName="ListOfValues.wsdl" MetadataType="Wsdl" ID="4e37f34f-b6d2-4651-9881-2c7106e7c7f1" SourceId="1" SourceUrl="https://nxpdev001.sdlproducts.com/ISHWS/Wcf/API25/ListOfValues.svc?wsdl=wsdl0" />
+    <MetadataFile FileName="ListOfValues.disco" MetadataType="Disco" ID="1cf0219b-b873-4124-9d5b-9c77cad2cb06" SourceId="1" SourceUrl="https://nxpdev001.sdlproducts.com/ISHWS/Wcf/API25/ListOfValues.svc?disco" />
+    <MetadataFile FileName="ListOfValues2.xsd" MetadataType="Schema" ID="c869d6d4-c2a7-4f71-a1e6-c7fb043cd47c" SourceId="1" SourceUrl="https://nxpdev001.sdlproducts.com/ISHWS/Wcf/API25/ListOfValues.svc?xsd=xsd0" />
+    <MetadataFile FileName="ListOfValues3.xsd" MetadataType="Schema" ID="b84bbe71-826e-4605-8e31-37ebff18f9d7" SourceId="1" SourceUrl="https://nxpdev001.sdlproducts.com/ISHWS/Wcf/API25/ListOfValues.svc?xsd=xsd2" />
+    <MetadataFile FileName="ListOfValues4.xsd" MetadataType="Schema" ID="d25fa9ec-e275-4a56-a6db-81abf0d8e040" SourceId="1" SourceUrl="https://nxpdev001.sdlproducts.com/ISHWS/Wcf/API25/ListOfValues.svc?xsd=xsd1" />
+    <MetadataFile FileName="ListOfValues1.wsdl" MetadataType="Wsdl" ID="8a16bc2d-62be-4b93-a79c-c5ce3fbfbe33" SourceId="1" SourceUrl="https://nxpdev001.sdlproducts.com/ISHWS/Wcf/API25/ListOfValues.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="ce3900db-f041-4a0f-add0-529850cdc818" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="https://nxpdev001.sdlproducts.com/ISHWS/Wcf/API25/baseline.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Baseline.xsd" MetadataType="Schema" ID="58f37028-774d-4873-b738-f8b0f17d0f47" SourceId="1" SourceUrl="https://nxpdev001.sdlproducts.com/ISHWS/Wcf/API25/Baseline.svc?xsd=xsd3" />
+    <MetadataFile FileName="BaseLine.wsdl" MetadataType="Wsdl" ID="8be743d4-3069-4942-91ac-1d94d0eec7c0" SourceId="1" SourceUrl="https://nxpdev001.sdlproducts.com/ISHWS/Wcf/API25/Baseline.svc?wsdl" />
+    <MetadataFile FileName="Baseline.disco" MetadataType="Disco" ID="78edddff-4fd9-41cf-91dc-bad5d227ea84" SourceId="1" SourceUrl="https://nxpdev001.sdlproducts.com/ISHWS/Wcf/API25/Baseline.svc?disco" />
+    <MetadataFile FileName="Baseline1.wsdl" MetadataType="Wsdl" ID="ef51da81-b1cf-4e30-be43-732757bbb6b1" SourceId="1" SourceUrl="https://nxpdev001.sdlproducts.com/ISHWS/Wcf/API25/Baseline.svc?wsdl=wsdl0" />
+    <MetadataFile FileName="Baseline1.xsd" MetadataType="Schema" ID="3c7c35de-891d-46a8-b731-17503adba233" SourceId="1" SourceUrl="https://nxpdev001.sdlproducts.com/ISHWS/Wcf/API25/Baseline.svc?xsd=xsd1" />
+    <MetadataFile FileName="Baseline2.xsd" MetadataType="Schema" ID="86da12d7-bacd-466d-b21d-ce7891b08027" SourceId="1" SourceUrl="https://nxpdev001.sdlproducts.com/ISHWS/Wcf/API25/Baseline.svc?xsd=xsd4" />
+    <MetadataFile FileName="Baseline3.xsd" MetadataType="Schema" ID="92dea210-6c56-4d67-9cad-588fc1a86f6d" SourceId="1" SourceUrl="https://nxpdev001.sdlproducts.com/ISHWS/Wcf/API25/Baseline.svc?xsd=xsd2" />
+    <MetadataFile FileName="Baseline4.xsd" MetadataType="Schema" ID="d95c0d11-a829-4882-a26b-a7501032f989" SourceId="1" SourceUrl="https://nxpdev001.sdlproducts.com/ISHWS/Wcf/API25/Baseline.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
